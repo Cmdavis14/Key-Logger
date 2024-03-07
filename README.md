@@ -8,7 +8,7 @@ The Key-Logger script is designed to capture keystrokes and securely transmit th
 
 ### Features
 - Keystroke Capture: The script employs the 'keyboard' library to record and capture keystrokes on the local machine.
-- data Transmission: Captured keystrokes are sent as POST requests to a specified HTTP server using the 'requests' library. The data is securely transmitted to the server for further analysis.
+- Data Transmission: Captured keystrokes are sent as POST requests to a specified HTTP server using the 'requests' library. The data is securely transmitted to the server for further analysis.
 - Remote Transfer (Planned): Future versions will include remote transfer capabilities using SSH, allowing for secure transmission of data to a remote server.
 
 ### Important Notes
